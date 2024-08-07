@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="primaryColor">#6200EE</color> <!-- A vibrant purple -->
+    <color name="primaryDarkColor">#3700B3</color> <!-- A darker purple -->
+    <color name="accentColor">#03DAC5</color> <!-- A teal color -->
+    <color name="buttonColor">#FF5722</color> <!-- A bright orange -->
+    <color name="textColor">#212121</color> <!-- A dark gray for text -->
+    <color name="dividerColor">#BDBDBD</color> <!-- A light gray for dividers -->
+    <color name="darker_gray">#D0D0D0</color>
+
+</resources>
